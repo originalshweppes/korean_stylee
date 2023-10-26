@@ -1,0 +1,122 @@
+<html> 
+	<head> 
+		<meta charset="UTF-8">
+		<link rel="stylesheet" type="text/css" href="new_styles.css">
+		<title>Modern_styles</title>
+		<link rel="icon" href="icons.png">
+	</head> 
+
+	<body>  
+		<header> 
+			<img class="logo" src="https://sun9-37.userapi.com/impg/QLt4WOMTF7vC5ZqO5OJc3zPfwqkwvXlQcOiwfg/QVeepwvjWYs.jpg?size=1002x1073&quality=95&sign=0ef4c86faae1038f1510850ecb3a036e&type=album">
+			<a href="#y2k">Y2K</a>
+			<a href="#old_money">OLD MONEY</a>
+			<a href="#korean">KOREAN STYLE</a>
+			<a href="#grunge">GRUNGE</a>
+			<a href="#minimalism">MINIMALISM</a>
+
+		</header> 
+		<main> 
+			<section id="y2k" class="green">
+					<h2 class="golden">Y2K</h2>
+				<p class="shadoww">Странное название этого стиля отсылает к сокращению, которое использовали программисты на стыке веков. До 2000-го компьютеры обрабатывали в нумерации года только две последние цифры, и в Миллениум случился большой сбой, поскольку цифры 00 могли считаться компьютером как 1900-й, а не 2000-й. Этот баг назвали «проблемой двухтысячного» — в последствие стиль нулевых получил именно такое название.
+				Расскажем немного подробнее, что значит Y2K. Y — сокращение слова year, которое переводится как «год». K — kilo (1000). То есть в прямом смысле эта аббревиатура расшифровывается как двухтысячный год.
+				Сейчас с аббревиатурой Y2K ассоциируется не проблема 2000 года, а стиль того времени.</p>
+				<center>
+					<img style="position: relative; left:30px" class="ugl" width="181px" height="284px" src="https://sun9-27.userapi.com/impg/6oVRNywIYbPs3GgHkhYo0ZLqbJ-ZZzJgoibDuw/Er9qkZZL1Do.jpg?size=736x1308&quality=95&sign=62d33236be37736377d0b5f958cbedd2&type=album">
+					<img class="ugl" width="161px" height="284px" src="https://sun9-51.userapi.com/impg/ekrEhdZfPHDPGNRdA36bWC6Tg41l_-Exs7x4OQ/Km9nmcfIT1w.jpg?size=608x1080&quality=95&sign=264438f63205aa1af16001d71f1554e0&type=album">
+					<img class="ugl" width="175px" height="284px" src="https://sun9-51.userapi.com/impg/wrsSyXFmjsJ9vOkop9giVPf81q6FVrhdEwLT3w/gIMczbtcutk.jpg?size=736x1308&quality=95&sign=d361728c5dd24bacd527e5c35aee72b0&type=album"><br><br>
+			    </center>
+					<h2 class="golden">СОБИРАЕМ Y2K ОБРАЗ</h2>
+				<p class="shadoww">За основу Y2K-образов можно взять как базовые, так и акцентные вещи. Так, простые широкие джинсы можно сочетать с веселой укороченной футболкой или сексуальным кроп-топом на завязках. Или создать тандем из мини-юбки и кофты с принтом (привет, «Дрянные девчонки»!), а может, и вовсе ограничиться ярким мини-платьем.</p>
+				<p class="shadoww" style="width: 400px">Главное, добавить знаковые аксессуары. К ним относятся небольшие сумки-багеты, яркие пластиковые украшения, сетчатые вещи, стразы (в любых их проявлениях). С обувью немного попроще: в Y2K-стиль впишутся как классические кеды, так и массивные модели шлепанцев, а может, и туфли на каблуках (как дань «нулевым»). Важно сохранять баланс между осторожным минимализмом и откровенным китчем.</p>
+				<img style="position: relative; left: 57%; bottom: 175px" height="129px" src="sunglasses.png">
+				<img style="position: relative; left: 52%; bottom: 178px" width="129px" height="99px" src="bag.png">
+				<img style="position: relative; left: 47%; bottom: 150px" width="99px" height="99px" src="something.png">
+				<img style="position: relative; left: 8%; bottom: 140px" width="99px" height="79px" src="ring.png">
+			</section>
+			<section id="old_money" class="red">
+					<h2 class="golden">СТИЛЬ OLD MONEY</h2>
+				<p class="shadoww" style="width: 330px; position: relative; left: 20px">В стиле Old Money нет ярких кислотных оттенков. Вещи всегда преимущественно классических глубоких цветов: много белого, бежевого, черного, коричневого, могут присутствовать темно-зеленый, темно-синий и т. д. Цветовая гамма образа играет немаловажную роль.</p>
+				<img style="position: relative; left: 65%; bottom: 100px" class="ugl" width="198px" height="324px" src="https://sun9-14.userapi.com/impg/CCIEGvoC7_HNlvzGc4Gb66ZljSxXNapfJJ1Ngg/jN5ppfJA44g.jpg?size=474x841&quality=95&sign=7041d9310f491516e6adc3a790a1aa2b&type=album">
+				<img style="position: relative; right: 150px" class="ugl" width="195px" height="320px" src="https://sun9-27.userapi.com/impg/8vsw8b8rj6Va8_lPnb-2FaJXWblmIuxcnHgJXw/FdCi_0XCyj0.jpg?size=724x1080&quality=95&sign=3aac9815b736a3a695b74dc1ec13a823&type=album">
+				<p class="shadoww" style="position: relative; left: 350px; bottom: 80px; width:290px">В стиле Old money преобладают приталенные силуэты: платья-футляры, приталенные рубашки, ремни, брюки и юбки с высокой талией. Oversize может присутствовать, но он должен быть правильным, иметь соответствующий крой учитывать параметры, а не просто висеть.</p>
+				<p class="shadoww" style="position: relative; bottom: 70px; width: 400px">Главное понятие — «старые деньги». Оно говорит о том, что человек не заработал средства, а унаследовал их. Притом благосостояние сохраняется и передается дальше.
+				Концепция появилась в странах, где нет знати. В Штатах, например, Old Money семьи связаны едва ли не с первыми переселенцами и белыми протестантами. А в России к людям со «старыми деньгами» можно отнести детей олигархов или знаменитостей.<p>
+				<p class="shadoww" style="position: relative; bottom: 65px; width: 400px">Стиль Old Money, каким мы знаем его сегодня, сформировался в XX веке — он помогал наследникам богатых семей показать молчаливое превосходство. Детей со «старыми деньгами» не застанешь в одежде с крупными лого и вычурных аксессуарах. Им незачем кичиться богатством, и поэтому они могут позволить себе удобную одежду из дорогих тканей.
+				А вот кто любит трендовые вещи от актуальных брендов — так это представители New Money. Этим термином обозначают людей, которые вышли из бедных слоев и всем видом показывают, насколько они богаты сегодня.</p>
+				<img style="position: relative; bottom: 395px; left: 470px;" class="ugl" width="191px" height="320px" src="https://sun9-48.userapi.com/impg/WmWGDfw7-AGJXMl212qLJyPNh4O4xpHS3XVmGg/-jx9zF7M3Kg.jpg?size=474x842&quality=95&sign=4d85a037bcde0fbafcd26321ac8cc4f7&type=album">
+				<img style="position: relative; bottom:230px; right: 180px;" width="134px" height="137px" src="image 12.png">
+				<p class="shadoww" style="width: 360px; position: relative; bottom:370px; left: 150px">Любители эстетики Old Money предпочитают сумки без излишеств, минималистичные украшения, шляпки, платки, очки в нейтральной или черепаховой оправе, перчатки. Их палитра тоже приглушенная. Даже спортивные сеты можно собрать в эстетике «старых денег».</p>
+				<img style="position: relative; left: 550px; bottom: 475px" width="86px" height="53px" src="image 14.png">
+				<img style="position: relative; left: 520px; bottom: 500px" width="101px" height="97px" src="image 13.png">
+			</section>
+			<section id="korean" class="pink"> 
+					<h2 class="golden">КОРЕЙСКИЙ СТИЛЬ</h2>
+				<p class="shadoww">Главная страсть местных девушек - мини-юбки. При этом образ не выглядит пошло. Все потому, что кореянки не выпячивают декольте и не носят слишком облегающую одежду.. Большинство корейцув предпочнтут спокойную палтьру в одежду. Они любят полностью джинсовые или черные образы, обожают пастельную гамму. Зато акссесуарами можно поиграть. Яркая оригинальная бижутерия не испортит не один образ</p>
+				<center>
+					<img class="ugl" width="170px" height="255px" src="https://sun9-9.userapi.com/impg/eGKDWZZYajk-QG_4LKLtM_mLrmMlAuqiLgqU7Q/pDt8eWSKs4U.jpg?size=736x981&quality=95&sign=c7562c86184693fba63b0b4b108bb8ec&type=album">
+					<img class="ugl" width="177px" height="255px" src="https://sun9-13.userapi.com/impg/b33dFa2DW5VCF2oilImY8J1Yq90cWGdPGTTUOw/qElVSYaZGHE.jpg?size=735x980&quality=95&sign=9c127dbfb0fa0e1e7d66385c2d838236&type=album">
+					<img class="ugl" width="184px" height="255px" src="https://sun9-58.userapi.com/impg/KlVbDYzTteHc8n1Vu_UhxK6dI4FBYv3czY1lxA/Iy4x5jzrYXs.jpg?size=736x981&quality=95&sign=f5f4fd22c66cdaacb13ed015bc56f7fa&type=album">
+				</center>
+				<img style="position: relative; top: 50px; left: 75px" width="134px" height="150px" src="image 99.png">
+				<img style="position: relative; bottom: 50px; left:90px" width="92px" height="78px" src="image 20.png">
+				<img style="position: relative; top: 70px; left:20px" width="84px" height="102px" src="image 19.png">
+				<p class="shadoww" style="position: relative; left: 355px; bottom: 100px; width:320px" >Тренду на oversize мир обязан именно корейским модникам. Здесь любят все комфортное и уютное, свитеры, худи, футболки. Но все должно быть в меру если верх объемный, но низ облегающий и подчеркивающий стройность ног</p>
+				<p class="shadoww" style="position: relative; left: 355px; bottom: 100px; width:320px">Корейцы частенько носят обувь на низком ходу. Кроссовки с платьем - тренд, который подарил миру именно корейский fashion</p>
+
+				<h2 class="golden">Базовый аутфит в стиле Чонгука</h2>
+				<div class="item">		
+						<div>
+							<img class="ugl" style="margin-left: 50px;" width="230px" src="https://i.pinimg.com/564x/20/a4/53/20a4534362d04acdb962d4eb40464c3b.jpg">
+						</div>
+					<div class="clothes">
+						<div>
+							<img width="90px"  src="ohjungkooknike-PhotoRoom.png-PhotoRoom.png">
+							<p class="shadoww">Куртка</p>
+						</div>
+						<div>
+							<img width="90px" src="pantsnike-PhotoRoom.png-PhotoRoom.png">
+							<p class="shadoww">Штаны</p>
+						</div>
+						<div>
+							<img width="80px" src="newbalance-PhotoRoom.png-PhotoRoom.png">
+							<p class="shadoww">Кроссовки</p>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section id="grunge" class="grey">
+					<h2 class="golden">ГРАНЖ</h2>
+				<img style="position: relative; left: 50px" class="ugl" width="174px" height="288px" src="https://sun9-66.userapi.com/impg/rsFT1Jp6WfHqRyuPvSAjq-C8BXnAbHxk0SCgMA/OzKP40mAPmg.jpg?size=656x1080&quality=95&sign=3df7b241f8183e1bc8af12d5d191e2f8&type=album">
+				<p class="shadoww" style="position: relative; width: 420px; bottom: 270px; left: 250px">Визуальные отличительные черты стиля гранж – это чаще всего темные цвета, объемная одежда оверсайз, длинные рукава, практически закрывающие пальцы рук, грубые ткани, многослойность, массивные куртки, тяжелая брутальная обувь, нестандартные сочетания, а также неординарные и броские ювелирные украшения с четкими линиями.</p>
+				<p class="shadoww" style="position: relative; width: 420px; bottom: 240px; left: 250px">Гранжу свойственны «грязное» гитарное звучание, обилие дисторшна, контрастная динамика с чередованием «громко-тихо», мрачные тексты на тему отчуждения, одиночества, апатии и свободолюбия.</p>
+				<p class="shadoww" style="position: relative; width: 400px; bottom:150px">Гранж стиль в одежде предполагает не только рваные шорты и джинсы в ансамблях с массивной обувью и темными колготками со стрелками. В луках используются объемные свитера, юбки из кожи и летящего трикотажа. Одежда из денима и кожи также должна иметь эффект поношенности, потертости.</p>
+				<img style="position: relative; bottom: 300px; left: 500px" class="ugl" width="161px" height="281px" src="https://sun9-42.userapi.com/impg/rM5FeyU6riM0kxLc8lOr8QCRiWYH20_dQ8kAhQ/ZsyF6tVSkdo.jpg?size=608x1080&quality=95&sign=8f2e5d6bb98a401c78662330e8bed953&type=album">
+				<img style="position: relative; bottom: 300px; right: 120px" width="109px" height="103px" src="image 23.png">
+				<img style="position: relative; bottom: 345px; right: 90px" width="86px" height="97px" src="image 24.png">
+				<img style="position: relative; bottom: 300px; right: 20px" width="110px" height="89px" src="image 25.png">
+			</section>
+			<section id="minimalism" class="beige">
+					<h2 class="golden">МИНИМАЛИЗМ</h2>
+				<img style="position: relative; left:50px" class="ugl" width="180px" height="315px" src="https://sun9-79.userapi.com/impg/iFcrlnhPSWYORGKJrCFS-4u9Vh6i_sGrUhRSJA/EzARXChWuks.jpg?size=607x1080&quality=95&sign=f1bb58d6f0021afd95af51689c037c82&type=album">
+				<p class="shadoww" style="position: relative; width:380px; left: 250px; bottom: 280px">Минимализм в одежде предполагает, что вещей ограниченное количество и они хорошо сочетаются между собой. Так что у вас будет некоторое число готовых образов — выбирать между ними просто. Не надо ломать голову, что надеть. Да и по магазинам можно будет ходить реже, ведь качественные вещи служат дольше.</p>
+				<p class="shadoww" style="position: relative; width:330px; left: 15px; bottom: 110px">Однако этот стиль подойдёт тем, кто от одежды ждёт не только эстетики, но и утилитарности. Минимализм в одежде предполагает, что вещей ограниченное количество и они хорошо сочетаются между собой.</p>
+				<img style="position: relative; bottom: 350px; left:450px" class="ugl" width="200px" height="307px" src="https://sun9-6.userapi.com/impg/YDb8Px1-EWBiWa1Bt3pvXYRje7kL3J9J6cMFYQ/qKzuGiEBTlM.jpg?size=499x770&quality=95&sign=b0160f194c14c3bd5eca821c44072a58&type=album">
+				<img style="position: relative; right: 155px; bottom: 60px" class="ugl" width="240px" height="307px" src="https://sun9-29.userapi.com/impg/1LvHqPiwB20soeebxgdbhFLz5N_fNoSLseEZYA/WIUCDqz_lN8.jpg?size=736x1008&quality=95&sign=d708c0222ecf6eb2d60c3c45866adae1&type=album">
+				<img style="position: relative; bottom:10px;" width="95px" height="90px" src="image 29.png">
+				<img style="position: relative; bottom:10px" width="65px" height="54px" src="image 30.png">
+				<img style="position: relative; bottom:15px; right:40px" width=" 59px" height="50px" src="image 32.png">
+				<img style="position: relative; bottom: 20px; right:350px" width="101px" height="125px" src="image 31.png">
+				<p class="shadoww" style="position: relative; width:350px; left: 285px; bottom:470px">А вот минимализм — это добровольный, сознательный отказ от лишних, ненужных, бессмысленных благ, дел, информации. Человек упрощает свои требования к жизни не потому, что не может их удовлетворить, а потому, что не хочет тратить на это время и силы, потому что не считает это важным для себя.</p>
+			</section>
+
+		</main> 
+		<footer> 
+			<img class="logo" src="https://sun9-12.userapi.com/impg/Irqg-L4VcsBLkCxn_HDTyDQ4XHurohtyfSQ1Rg/UEAsceyhRjA.jpg?size=1153x1153&quality=95&sign=0c411d0b4905b13e8fd401e71adc19c8&type=album">
+			<img style="margin-left: 1085px; margin-right: 15px; margin-top: 30px" src="insta2.png">
+			<img style="margin-right: 15px; margin-top: 30px" src="telegram.png">
+			<img style="margin-top: 30px" src="whatsapp.png">
+		</footer>
+	</body>
+</html>
