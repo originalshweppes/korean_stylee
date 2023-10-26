@@ -1,0 +1,154 @@
+body {
+	margin: 0px;
+	background-image: linear-gradient(#596C5E,18%,#702A2A,#BA9A9A,#656565,#AEA498);
+	background-size: cover;
+}
+
+header {
+	background-color: #354535;
+	padding-bottom: 40px;
+	padding-top: 40px;
+	display: flex;
+	justify-content: space-around;
+	height: 45px;
+}
+main {
+	margin-right: 350px;
+	margin-left: 350px;
+}
+footer {
+	background-color: #9C938B;
+	height: 120px;
+}
+.clothes div {
+	display: flex;
+}
+.clothes {
+	margin-top: auto;
+	margin-bottom: auto;
+}
+.item {
+	display: flex;
+	justify-content: space-around;
+}
+.contacts {
+
+}
+
+}
+header .logo {
+	position: absolute;
+	left: 10px;
+	bottom: 25px;
+}
+.logo {
+	width: 73px;
+	height: 73px;
+	border-radius: 47px;
+}
+footer .logo {
+	position: relative;
+	left: 20px;
+	top: 20px;
+}
+.green {
+	background-color: #596C5E;
+	height: 770px;
+}
+.red {
+	background-color: #511515;
+	height: 1150px;
+}
+.pink {
+	background-color: #A98282;
+	height: 1200px;
+}
+.grey {
+	background-color: #6C6B6B;
+	height: 670px;
+}
+.beige {
+	background-color: #AEA498;
+	height: 1000px;
+}
+.ugl {
+	border-radius: 15px;
+}
+header a {
+	text-decoration: none;
+	font-family: arial;
+	font-size: 12px;
+	color: white;
+	border: 5px solid #596C5E;
+	background-color: #596C5E;
+	border-radius: 15px;
+	padding: 10px;
+	margin-right: 30px;
+	margin-left: 120px;
+}
+p {
+	font-family: arial;
+	font-weight: 500;
+	color: #FFFFFF;
+	font-size: 14px;
+	padding-left: 30px;
+	padding-right: 30px;
+	text-align: justify;
+}
+h2 {
+	font-family: sans-serif;
+	font-weight: 200;
+	font-style: italic;
+	font-size: 22px;
+	color: #FFFFFF;
+	margin-top: 0px;
+	padding-top: 15px;
+	text-align: center;
+}
+.green .ugl {
+	margin-right: 53px;
+	box-shadow: 4px 4px 4px #354535;
+}
+.pink .ugl {
+	margin-right: 50px;
+	box-shadow: 4px 4px 4px #8F6C6C;
+}
+.red .ugl {
+	box-shadow: 4px 4px 4px #300606;
+}
+.grey .ugl {
+	box-shadow: 4px 4px 4px #4B4B4B;
+}
+.beige .ugl {
+	box-shadow: 4px 4px 4px #8F867B;
+}
+.green .shadoww {
+	text-shadow: 3px 2px 2px #516456;
+}
+.pink .shadoww {
+	text-shadow: 3px 2px 2px #957070;
+}
+.red .shadoww {
+	text-shadow: 3px 2px 2px #461111;
+}
+.grey .shadoww {
+	text-shadow: 3px 2px 2px #595959;
+}
+.beige .shadoww {
+	text-shadow: 3px 2px 2px #8F877F;
+}
+.green .golden {
+	text-shadow: 4px 3px 3px #516456 ;
+}
+.red .golden {
+	text-shadow: 4px 3px 3px #461111 ;
+}
+.pink .golden {
+	text-shadow: 4px 3px 3px #957070;
+}
+.grey .golden {
+	text-shadow: 4px 3px 3px #595959;
+}
+.beige .golden {
+	text-shadow: 4px 3px 3px #8F877F;;
+}
